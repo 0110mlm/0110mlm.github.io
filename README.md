@@ -31,5 +31,5 @@ In Proceedings of [FSE 2024](https://2024.esec-fse.org/track/fse-2024-research-p
 ## Teaching Assistant
 
 🛠️ Software Analysis, Testing and Verification - Fall 2023  
-🛠️ Software Analysis, Testing and Verification - Fall 2024
+🛠️ Software Analysis, Testing and Verification - Fall 2024  
 🛠️ Software Analysis, Testing and Verification - Fall 2025
