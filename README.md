@@ -24,12 +24,15 @@ In Proceedings of [FSE 2024](https://2024.esec-fse.org/track/fse-2024-research-p
 ---
 
 ## Honor
-**1st Prize** in the CSCC National College Students Computer Systems Capability Competition (East China Regional) – OS Tools Development (**Team Leader**).
+
+[Computer System Development Capability Competition](https://os.educg.net/#/) (East China Region) — OS Tools Development — First Prize (Team Leader), 2025
+
+[OpenHarmony Tech Club](https://www.openharmony.cn/#/techClub) — Starlight Contributor, 2025
 
 ---
 
 ## Teaching Assistant
 
-🛠️ Software Analysis, Testing and Verification - Fall 2023  
-🛠️ Software Analysis, Testing and Verification - Fall 2024  
-🛠️ Software Analysis, Testing and Verification - Fall 2025
+Software Analysis, Testing and Verification - Fall 2023  
+Software Analysis, Testing and Verification - Fall 2024  
+Software Analysis, Testing and Verification - Fall 2025
